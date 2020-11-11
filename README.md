@@ -9,8 +9,8 @@ This project is assignment of depgeg
 - [x] Sorting
 - [x] Font
 - [x] Fontawesome Icons
-- [] Searching
-- [] Cards
+- [ ] Searching
+- [ ] Cards
 
 ## Sorting assumption
 
